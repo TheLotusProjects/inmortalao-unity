@@ -6,9 +6,9 @@ Furthermore folders were created by using Unity patterns. Besides all assets are
 
 # Unity version
 
-Project was created using Unity 2020.1.3f1
+Project was created using `Unity 2020.1.3f1`
 
-# How to install
+# How to install
 
 1. Download [Unity Hub](https://unity.com/unity-hub)
 2. Download `Unity 2020.1.3f1` from Unity Hub
