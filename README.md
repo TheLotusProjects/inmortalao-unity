@@ -77,9 +77,9 @@ You cannot go through the walls. The dungeon will be always the same 30 squares 
 
 | Name |  Image | Description | Health | Strength |
 | --- | --- | --- | --- | --- |
-| `Player` | <img src="player.png" width="200" height="200"> | Player is the brabest human in this universe. He is in charge to deal with the whole monsters to clean this evil world | 40 level 1 | 10 level 1 |
-| `Dragon` | <img src="dragon.png" width="200" height="200"> | The dragon is a mythical creature where possesses all treasures. Ogres are they protectors  | 1000 | 10 |
-| `Ogre` | <img src="ogre.png" width="200" height="200"> | Ogres live in dungeons since 1000 years ago. They have the characteristic to reproduce pretty fast. | 200 | 10 |
+| `Player` | <img src="player.png" width="100" height="100"> | Player is the brabest human in this universe. He is in charge to deal with the whole monsters to clean this evil world | 40 level 1 | 10 level 1 |
+| `Dragon` | <img src="dragon.png" width="100" height="100"> | The dragon is a mythical creature where possesses all treasures. Ogres are they protectors  | 1000 | 10 |
+| `Ogre` | <img src="ogre.png" width="100" height="100"> | Ogres live in dungeons since 1000 years ago. They have the characteristic to reproduce pretty fast. | 200 | 10 |
 
 # Images
 
