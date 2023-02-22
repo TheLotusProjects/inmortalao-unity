@@ -9,7 +9,7 @@ Furthermore folders were created by using Unity patterns
 
 # Unity version
 
-Project was created using Unity 2020.1.3f1
+Project was created using `Unity 2020.1.3f1`
 
 # How to install
 
