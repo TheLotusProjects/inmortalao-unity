@@ -31,8 +31,7 @@ The game will end once you kill the Dragon
 
 # Overview
 
-Basically we this game is about an RPG game where you need to kill monsters in order to gain experience
-and in consequence, increasing your level to be able and prepared to beat the final boss. 
+This game is about an RPG game where you need to kill monsters in order to gain experience and in consequence, increasing your level to be able and prepared to beat the final boss. 
 
 There is 4 states:
 
